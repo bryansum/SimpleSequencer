@@ -16,7 +16,7 @@ DEPENDENCIES:
   - SVGKit (from `https://github.com/SVGKit/SVGKit.git`, branch `2.x`)
 
 SPEC REPOS:
-  https://github.com/CocoaPods/Specs.git:
+  https://github.com/cocoapods/specs.git:
     - AudioKit
     - CocoaLumberjack
 
@@ -37,4 +37,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: a3433c0ef5eee59b3f85b32963b39540ff11146a
 
-COCOAPODS: 1.5.0
+COCOAPODS: 1.5.3
